@@ -31,4 +31,5 @@ Creating a google assistant app
 
       -Go to integrations and click on test app
 
-      -Huzzah open google assistant on any of your device with the same account and say "Talk to home meter" (or whatever name you've given to the project)
+      -Huzzah open google assistant on any of your device with the same account 
+       and say "Talk to home meter" (or whatever name you've given to the project)
