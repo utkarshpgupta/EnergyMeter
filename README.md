@@ -2,6 +2,7 @@
 Power and energy consumption monitoring of a household using CT sensor and ESP module.
 
 Setting up the esp module
+
   -Download the emon library from https://github.com/openenergymonitor/EmonLib
   -Install the arduino gfx library, ssd1306 library (for the oled display module)
   -Upload the sketch to your esp module
